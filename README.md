@@ -1,4 +1,6 @@
 I successfully completed Simplilearn Prompt Engineering course and got lot of knowledge about promptings and the use of Gen AI
+![image alt](https://github.com/Senura-Peiris/Prompt-Engineering-Certificate/blob/main/COURSE.png?raw=true)
+
 
 
 Use this link to join today to start learning today.
